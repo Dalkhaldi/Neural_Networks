@@ -1,0 +1,84 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 28, 2020, 1:31:46 AM
+    Author     : jcc
+*/
+ #or
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #xor
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #nor
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #and
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #nand
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #not
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+  #xnor
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #go
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+ #train
+ {
+     -fx-background-color: linear-gradient(#ff5400,#be1d00);
+     -fx-background-radius: 40;
+     -fx-background-insets: 0;
+     -fx-text-fill: white
+    
+ }
+  
+
+

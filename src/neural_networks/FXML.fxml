@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="panel2" prefHeight="423.0" prefWidth="570.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="neural_networks.FXMLController">
+   <children>
+      <ImageView fitHeight="426.0" fitWidth="589.0">
+         <image>
+            <Image url="@../imge/x_y.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="22.0" fitWidth="22.0" layoutX="467.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true" fx:id="x_y1" />
+      <ImageView fx:id="y" fitHeight="22.0" fitWidth="22.0" layoutX="290.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true" />
+      <ImageView fitHeight="22.0" fitWidth="22.0" layoutX="467.0" layoutY="202.0" pickOnBounds="true" preserveRatio="true" fx:id="x" />
+      <ImageView fitHeight="22.0" fitWidth="22.0" layoutX="290.0" layoutY="202.0" pickOnBounds="true" preserveRatio="true" fx:id="x_y0" />
+   </children>
+</AnchorPane>
